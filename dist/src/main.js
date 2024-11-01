@@ -1,1 +1,0 @@
-import"../node_modules/@lwc/synthetic-shadow/dist/index.js";import{createElement as o}from"../node_modules/@lwc/engine-dom/dist/index.js";import e from"./modules/c/app/app.js";const m=o("c-app",{is:e});document.body.appendChild(m);

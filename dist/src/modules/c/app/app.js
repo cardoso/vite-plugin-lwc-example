@@ -1,0 +1,1 @@
+import t from"./app.html.js";import{registerComponent as e,LightningElement as n}from"../../../../node_modules/@lwc/engine-dom/dist/index.js";class p extends n{}const m=e(p,{tmpl:t,sel:"c-app",apiVersion:63});export{m as default};

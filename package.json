@@ -1,5 +1,6 @@
 {
     "name": "vite-plugin-lwc-example",
+    "type": "module",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
@@ -11,6 +12,6 @@
     },
     "devDependencies": {
         "vite": "^5.4.10",
-        "vite-plugin-lwc": "^0.0.2"
+        "vite-plugin-lwc": "^0.1.0"
     }
 }

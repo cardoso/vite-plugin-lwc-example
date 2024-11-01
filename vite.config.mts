@@ -9,8 +9,10 @@ export default defineConfig({
 		assetsDir: "",
 		rollupOptions: {
 		  input: ["src/main.js"],
+		  preserveEntrySignatures: "strict",
 		  output: {
 			entryFileNames: "[name].js",
+			inlineDynamicImports: true,
 		  },
 		},
 	  },

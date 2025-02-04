@@ -7,11 +7,11 @@
         "preview": "vite preview"
     },
     "dependencies": {
-        "lwc": "^8.12.6",
+        "lwc": "^8.12.7",
         "lightning-base-components": "^1.22.3-alpha"
     },
     "devDependencies": {
         "vite": "^6.0.11",
-        "vite-plugin-lwc": "^3.0.0"
+        "vite-plugin-lwc": "^4.0.0"
     }
 }
